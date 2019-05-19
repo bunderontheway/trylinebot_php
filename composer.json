@@ -1,0 +1,10 @@
+{
+    "name": "bunder/botiseng",
+    "description": "tes bot",
+    "type": "project",
+    "require": {
+        "php": "^7.2",
+        "slim/slim": "^3.12",
+        "linecorp/line-bot-sdk": "^3.10"
+    }
+}
